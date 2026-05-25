@@ -4,10 +4,10 @@ Team project for tracking student expenses, budgets, and spending categories.
 
 ## Team Members and Roles
 
-- Sudies Omer - Team Lead 
-- Alexander Sanchez Serrano - Team Member 
-- Omkar Yadav Bojja - Team Member 
-- Xicheng Zhao - GitHub Coordinator 
+- Sudies Omer - Team Lead project manager
+- Alexander Sanchez Serrano - Team Member  ui developer 
+- Omkar Yadav Bojja - Team Member ui developer 
+- Xicheng Zhao - GitHub Coordinator project manager
 
 ## Project Description
 
